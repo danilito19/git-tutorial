@@ -1,3 +1,16 @@
 
-# to clone - get a directory (folder) from github site to your computer
-git clone 
+# to clone - get a directory (folder) from github site to your computeri
+# two ways to clone - with https (a link) or ssh (secure shell, must set this up)
+git clone https://github.com/danilito20/git-tutorial.git
+
+# to view what commits you have - commits are checkpoints that you save
+git log
+
+# to view what changes you have made
+git status
+
+# to create a commit
+git commit -m "message about the work in this commit"
+
+
+ 

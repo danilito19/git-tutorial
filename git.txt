@@ -1,0 +1,3 @@
+
+# to clone - get a directory (folder) from github site to your computer
+git clone 
